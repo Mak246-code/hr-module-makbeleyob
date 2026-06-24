@@ -1,6 +1,6 @@
 # ERP Frontend — Human Resource (HR) Module
 
-This repository contains the completed **HR module** submission for the ERP Frontend Intern Challenge, built on `feature/makbeleyob/human_resource_crud`.
+This repository contains the completed **HR module** submission for the ERP Frontend Intern Challenge, built on `feature/makbeleyob/human_resource`.
 
 It follows a feature-based architecture — pages stay thin, business logic lives in `services/`, API access is isolated in `api/`, server state is managed with TanStack Query, and global client state uses Zustand only where genuinely needed.
 
